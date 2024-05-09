@@ -1,0 +1,14 @@
+C:\repo\tl1-tp8-2024-marianogk\bin\Debug\net7.0\tl1-tp8-2024-marianogk.exe
+c:\repo\tl1-tp8-2024-marianogk\bin\Debug\net7.0\tl1-tp8-2024-marianogk.deps.json
+c:\repo\tl1-tp8-2024-marianogk\bin\Debug\net7.0\tl1-tp8-2024-marianogk.runtimeconfig.json
+C:\repo\tl1-tp8-2024-marianogk\bin\Debug\net7.0\tl1-tp8-2024-marianogk.dll
+C:\repo\tl1-tp8-2024-marianogk\bin\Debug\net7.0\tl1-tp8-2024-marianogk.pdb
+C:\repo\tl1-tp8-2024-marianogk\obj\Debug\net7.0\tl1-tp8-2024-marianogk.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\tl1-tp8-2024-marianogk\obj\Debug\net7.0\tl1-tp8-2024-marianogk.AssemblyInfoInputs.cache
+C:\repo\tl1-tp8-2024-marianogk\obj\Debug\net7.0\tl1-tp8-2024-marianogk.AssemblyInfo.cs
+C:\repo\tl1-tp8-2024-marianogk\obj\Debug\net7.0\tl1-tp8-2024-marianogk.csproj.CoreCompileInputs.cache
+C:\repo\tl1-tp8-2024-marianogk\obj\Debug\net7.0\tl1-tp8-2024-marianogk.dll
+C:\repo\tl1-tp8-2024-marianogk\obj\Debug\net7.0\refint\tl1-tp8-2024-marianogk.dll
+C:\repo\tl1-tp8-2024-marianogk\obj\Debug\net7.0\tl1-tp8-2024-marianogk.pdb
+c:\repo\tl1-tp8-2024-marianogk\obj\Debug\net7.0\tl1-tp8-2024-marianogk.genruntimeconfig.cache
+c:\repo\tl1-tp8-2024-marianogk\obj\Debug\net7.0\ref\tl1-tp8-2024-marianogk.dll
